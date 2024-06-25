@@ -44,7 +44,12 @@ header h1 {
     width: 100px;
     height: 100px;
     object-fit: cover;
-    margin-top: 10px;
+    filter: grayscale(100%);
+    transition: filter 0.3s ease;
+}
+
+.profile-img:hover {
+    filter: grayscale(0%);
 }
 
 section {
