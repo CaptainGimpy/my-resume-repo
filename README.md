@@ -34,7 +34,7 @@ To view or edit this résumé locally:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/resume.git
+   [ git clone https://github.com/your-username/resume.git](https://github.com/CaptainGimpy/my-resume-repo.git)
     ```
 2. Navigate to the project directory:
     ```bash
@@ -44,7 +44,7 @@ To view or edit this résumé locally:
 
 ## Usage
 
-You can view the live version of my résumé hosted on GitHub Pages: [https://your-username.github.io/resume](https://your-username.github.io/resume)
+You can view the live version of my résumé hosted on GitHub Pages: [https://captaingimpy.github.io/my-resume-repo/]
 
 ## License
 
